@@ -4,7 +4,7 @@ title: Kore
 permalink: platform/instructions/en/latest/Agent Transfer/kore
 
 ---
-Kore.ai XO Platform supports integration with Kore live agent support
+Kore.ai XO Platform supports integration with internal and external Agent Systems to handover the conversations without having to use the BotKit.
 
 <container>
   
